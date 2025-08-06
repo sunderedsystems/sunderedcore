@@ -113,11 +113,23 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Sundered Systems.`,
       },
-      prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
+     prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
+    },
+  }),
+
+  plugins: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'), // <-- regular dash!
+      {
+        hashed: true,
+        // language: ['en'],
+        // docsRouteBasePath: ['docs'],
+        // searchBarShortcutKeymap: 'ctrl+shift+f',
       },
-    }),
+    ],
+  ],
 };
 
 export default config;
