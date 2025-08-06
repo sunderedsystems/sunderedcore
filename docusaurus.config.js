@@ -87,8 +87,16 @@ const config = {
                 href: 'https://discord.gg/sunderedhttps://discord.gg/wMJ2xjb6',
               },
               {
-                label: 'Twitter / X',
-                href: 'https://x.com/sunderedsystem',
+                label: 'TikTok',
+                href: 'https://www.tiktok.com/@sunderedsystems',
+              },
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/sunderedsystems',
+              },
+              {
+                label: 'Reddit',
+                href: 'https://www.reddit.com/r/sunderedsystems',
               },
             ],
           },
