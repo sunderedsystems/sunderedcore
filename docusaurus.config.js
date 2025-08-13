@@ -56,7 +56,7 @@ const config = {
         items: [
           {
             label: 'Sundered Rules',
-            to: 'start-here',
+            to: '/docs/start-here',
             position: 'left',
           },
           {
