@@ -55,7 +55,7 @@ const config = {
         },
         items: [
           {
-            label: 'Sundered Rules',
+            label: 'Play Now',
             to: '/docs/start-here',
             position: 'left',
           },
