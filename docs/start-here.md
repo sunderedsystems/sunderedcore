@@ -33,6 +33,11 @@ Play bold. Play creatively. This is your story. Let’s see how far you can push
 
 ## Play Now
 
+Sundered 5e isn’t just a new set of rules — it’s a table experience built for speed, clarity, and choice. 
+You don’t have to read every page to feel it in action. You can start rolling, countering, and making big choices in minutes.
+
+Whether you’re running a one-shot tonight or jumping straight into a campaign, the Quickstart guide will walk you through exactly what you need to begin — from character creation to your first round of combat.
+
 **Download the Quickstart**  
 - 👉 **[Quickstart (Interactive)](./quickstart-interactive)** — concise rules to run your first session fast.  
 - 👉 **[Quickstart (Printable)](./quickstart-printable)** — single-page, open view for printing or saving as PDF.
