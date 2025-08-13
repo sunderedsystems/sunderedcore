@@ -6,8 +6,9 @@ module.exports = {
       label: 'A New Way To Play',
       collapsible: true,
       items: [
-       'welcome',
-       'quickstart',
+       'start-here',
+       'quickstart-interactive',
+       'quickstart-printable',
       ],
     },
 
