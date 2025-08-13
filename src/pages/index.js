@@ -76,8 +76,8 @@ function HeroCTA() {
       }}
     >
       <div className="container">
-        <h2 className="hero__title" style={{marginBottom: '0.25rem'}}>Free to Play</h2>
-        <p className="hero__subtitle" style={{marginTop: 0}}>Learn to play in minutes.</p>
+        <h3 className="hero__title" style={{marginBottom: '0.25rem'}}>Free to Play</h3>
+        <p className="hero__subtitle" style={{marginTop: 0}}>Learn in minutes.</p>
         <div style={{marginTop: '0.75rem'}}>
        <Link className="sw-button" to="/docs/start-here">
   Play Now
