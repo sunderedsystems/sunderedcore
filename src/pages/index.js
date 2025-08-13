@@ -14,7 +14,7 @@ export default function Home() {
 
 function LogoWithBranding() {
   const {colorMode} = useColorMode();
-  const logoSrc = colorMode === 'dark' ? '/img/invs5e.png' : '/img/s5e.png';
+  const logoSrc = colorMode === 'dark' ? '/img/inv.logo.png' : '/img/logo.png';
   const textColor = colorMode === 'dark' ? 'var(--sw-white)' : 'var(--sw-text)';
 
   return (
