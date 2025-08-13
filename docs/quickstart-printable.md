@@ -55,7 +55,7 @@ Use this as your turn-by-turn cheat sheet for Sundered 5e.
 - **On her turn:** Vera the Ranger uses her **Core Action** to melee attack (**Agility vs target’s Agility**).  
   She spends **2 SD** to make an extra Core Action: attack and commits **+1 SD** to boost its damage.
 
-- **Outside her turn:** An enemy casts a **level 1** spell targeting her **Constitution**.  
+- **Outside her turn:** An enemy casts a spell targeting her **Constitution**.  
   She spends **3 SD** to **counterspell**, rolling her **Knowledge + Proficiency** vs the caster’s roll.
 
 ---
