@@ -51,7 +51,7 @@ Whether you’re running a one-shot tonight or jumping straight into a campaign,
 
 - **Learn the full engine:** [Welcome / SRD Index](./start-here)  
 - **Combat & counters:** [Combat](./combat) • [Counters](./counters)  
-- **Magic & techniques:** [Techniques](./techniques) • [Spells by Level](./level-1-spells)  
+- **Magic & techniques:** [Techniques](./techniques) • 
 - **Creatures & companions:** [Familiars](./familiars) • [Pets](./pets) • [Summons](./summoned-creatures)  
 - **Join the community:** _Discord link here_  
 - **Create content for Sundered:** [Sundered Creator License (SCL)](./SCL)
