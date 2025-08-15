@@ -2,6 +2,20 @@
 
 A **counter** is an action taken in response to a successful attack or effect—whether targeting yourself or an ally.
 
+At the time of incoming spells or damage, targets must choose if they will counter, and how.
+
+Counters are resolved first by type, then initiative order.
+
+A counterspell resolves first, then block, then parry, then non-action. 
+
+If multiple people choose to counterspell, the first in initiative order makes the first check. 
+
+>Example: The party is targeted by a successful damaging area of effect spell.
+- One player chooses to counterspell. Another Chooses to block with their magic shield. The third chooses to accept the hit.
+- The counterspell fails. 
+- The blocker commits SD, then rolls to reduce the incoming damage.
+- The third takes damage normally.
+
 ---
 
 ## Absorption
@@ -19,8 +33,8 @@ A **counter** is an action taken in response to a successful attack or effect—
 
 You may **block** incoming physical damage by:
 
-- Spending **2+ SD** (up to proficiency), or  
-- Spending **20ft of unspent movement**
+- Spending **1+ SD** (up to proficiency), or  
+- Spending **10ft or more of unspent movement**
 
 ### Block Steps
 
@@ -33,7 +47,7 @@ You may **block** incoming physical damage by:
 
 > **Magic damage** may only be blocked using **magical weapons or shields**
 
-### Dig In (during Block)
+### Dig In (Block or Parry)
 
 Spend **10ft movement = –1 damage** reduction
 
