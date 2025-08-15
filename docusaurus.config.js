@@ -69,6 +69,11 @@ const config = {
             label: 'Sundered 5e',
             position: 'right',
           },
+           {
+            href: 'https://sunderedsystems.com',
+            label: 'Devlog',
+            position: 'right',
+          },
           {
             href: 'https://github.com/sunderedsystems/sundered5e',
             label: 'GitHub',
