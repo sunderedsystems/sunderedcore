@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&display=swap');
 
 :root {
   --sw-purple: #2C1C3B;
@@ -9,6 +12,11 @@
   --sw-bg: #F6F1EB;
   --sw-text: #111111;
   --sw-error: #B94A48;
+
+  /* Fonts */
+  --font-header: 'Space Grotesk', sans-serif;
+  --font-subheader: 'Archivo', sans-serif;
+  --font-body: 'Crimson Text', serif;
 }
 
 [data-theme="dark"] {
@@ -22,13 +30,28 @@
   --sw-error: #B94A48;
 }
 
-/* Set Lora everywhere */
-html, body, #__docusaurus, .main-wrapper, .theme-doc-content, .markdown,
+/* ---------- Font Assignments ---------- */
+
+/* Headers + hero */
 h1, h2, h3, h4, h5, h6,
-.hero__title, .logo-tagline,
-.menu__link, .navbar__title, .navbar__link, .footer, .footer__bottom {
-  font-family: 'Lora', serif !important;
+.hero__title, .logo-tagline {
+  font-family: var(--font-header) !important;
+  letter-spacing: 0.01em;
+  font-weight: 700;
+}
+
+/* Subheaders, sidebars, tables */
+.menu__link, .navbar__title, .navbar__link,
+.theme-doc-markdown table, .markdown table, th {
+  font-family: var(--font-subheader) !important;
+  font-weight: 600;
+}
+
+/* Body copy (long reads) */
+html, body, #__docusaurus, .main-wrapper, .theme-doc-content, .markdown, p {
+  font-family: var(--font-body) !important;
   font-variant-ligatures: common-ligatures;
+  font-weight: 400;
   letter-spacing: 0.01em;
 }
 
