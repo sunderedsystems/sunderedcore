@@ -377,3 +377,69 @@ body,
   background: var(--sw-gold) !important;
   color: #18181b !important;
 }
+
+/* === TYPO SYSTEM: Space Grotesk (headers), Archivo (UI), Crimson Text (body) === */
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Archivo:wght@400;600;700&family=Crimson+Text:wght@400;600;700&display=swap');
+
+
+:root {
+  --font-headings: "Space Grotesk", ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  --font-ui: "Archivo", ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-body: "Crimson Text", Georgia, "Times New Roman", Times, serif;
+
+  /* Comfortable reading defaults */
+  --body-size: 18px;             /* up from 16px – improves dark-mode readability */
+  --body-leading: 1.65;
+  --heading-leading: 1.2;
+  --content-measure: 72ch;       /* ideal paragraph width */
+}
+
+/* Font rendering/smoothing (helps a lot on Windows + dark bg) */
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-size: var(--body-size);
+}
+
+/* Body copy (long reads) */
+body,
+.theme-doc-markdown,
+.theme-doc-content .markdown,
+.markdown {
+  font-family: var(--font-body) !important;
+  line-height: var(--body-leading);
+  letter-spacing: 0; /* remove global tracking for body copy */
+}
+
+/* Limit paragraph/long text measure without breaking wide tables/code */
+.theme-doc-markdown p,
+.theme-doc-markdown ul,
+.theme-doc-markdown ol,
+.theme-doc-markdown blockquote {
+  max-width: var(--content-measure);
+}
+
+/* Headings + hero */
+h1, h2, h3, h4, h5, h6,
+.hero__title {
+  font-family: var(--font-headings) !important;
+  line-height: var(--heading-leading);
+  letter-spacing: -0.01em; /* subtle tightening suits Space Grotesk */
+  font-weight: 700;
+}
+
+/* UI: nav, sidebar, footer links, table headers, buttons, small labels */
+.navbar__title, .navbar__link, .menu__link, .footer, .footer__bottom,
+.table thead th, .pagination-nav__label, .sw-button {
+  font-family: var(--font-ui) !important;
+}
+
+/* Optional: slightly larger small text in dark mode for contrast perception */
+[data-theme="dark"] .theme-doc-markdown p,
+[data-theme="dark"] .theme-doc-markdown li {
+  font-weight: 400;              /* keep regular */
+}
+
+/* Keep your existing colors etc. below as-is */
+
