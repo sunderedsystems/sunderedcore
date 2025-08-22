@@ -7,7 +7,7 @@ Characters develop signature techniques tied to their **ability scores**. These 
 ### Technique Proficiency
 
 - These are specializations you’ve **mastered** and perform efficiently.
-- However, you **only** add proficiency to known techniques if proficient in the related ability score.
+- However, you **only** add proficiency to known techniques **if proficient** in the related ability score.
 
 ### Technique Capacity
 
@@ -84,6 +84,17 @@ Anyone can cast spells using **Influence**, **Knowledge**, or **Wisdom**.
 
 - Add **proficiency** only if you’re proficient in that spellcasting ability
 
+---
+
+### Spell Difficulty
+
+- Spells add their level to the DC
+- Cantrips are level 0
+
+>Example: When you cast a 3rd level spell, the DC is increased by +3
+
+---
+
 ### Casting Requirements
 
 - Requires **verbal/somatic components** unless using a spell focus
@@ -92,10 +103,12 @@ Anyone can cast spells using **Influence**, **Knowledge**, or **Wisdom**.
   - SD = spell level (or equivalent cost like movement)
 - Exceeding proficiency cap by level = **strained** spell
 
-> Casting a 3rd-level spell at Proficiency +2 = +1 DC per missing SD
+> Casting a 3rd-level spell at Proficiency +2 = +1 DC for Strain.
+> The total increase to the DC is +4 (+3 for 3rd level spell and +1 for Strain)
 
 - Only **spells of a level (1-9)** count toward the proficiency cap
 - **Spells do not level up** (a level 1 spell is always level 1) —they scale via SD
+
 
 ---
 
@@ -170,7 +183,7 @@ Targeting follows all normal rules:
 
 - Check is made against the **target's relevant ability score**
 - If multiple targets: use **highest relevant score**
-- If not targeting a creature (e.g., objects): DC = 30 – your spellcasting score
+- If not targeting a creature (e.g., objects, location): DC = 30 – your spellcasting score
 
 ---
 
