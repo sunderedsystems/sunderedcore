@@ -32,7 +32,7 @@ Use this as your turn-by-turn cheat sheet for Sundered 5e.
 ---
 
 ## How to Take a Turn
-- **Free Core Action** — Attack, cast, move, or special.
+- **Core Action(s)** — Attack, cast, move, or special.
 - **Spend Source / Movement** — Take extra actions, enhance attacks, or boost spells.
 - **Roll Check** — d20 + Ability Mod (+ Proficiency if proficient) vs target’s relevant ability score.
 - **Resolve Outcome** — Deal base damage (**Ability Mod + Proficiency**) plus any SD committed.
@@ -43,7 +43,7 @@ Use this as your turn-by-turn cheat sheet for Sundered 5e.
 ## At a Glance
 
 - **Base Movement:** 50 ft (adjust by size & Agility).
-- **Actions Beyond Free:** **2 SD ⇒ 1 Core Action**.
+- **Core Action**: Spend 2SD, 20ft Movement, or 1SD 10ft Movement to Attack, Cast, or special
 - **Spell Cost:** Core action + **spell level in SD** (+ up to **Proficiency** for scaling).
 - **Movement Trade:** **20 ft ⇒ 1 extra Core Action** or +effect.
 - **Replenishment (Combat):** Stressed check, Core action; DC 30 - Constitution Score. On success, regain SD up to proficiency.
