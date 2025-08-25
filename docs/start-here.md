@@ -41,7 +41,7 @@ Whether you’re running a one-shot tonight or jumping straight into a campaign,
 **Download the Quickstart**  
 - 👉 **[Quickstart (Interactive)](./quickstart-interactive)** — concise rules to run your first session fast.  
 <a className="button button--primary" href="/downloads/quickstart.pdf" download>
-  ⬇️ Download Quickstart (PDF)
+-  ⬇️ Download Quickstart (PDF)
 </a>
 
 
