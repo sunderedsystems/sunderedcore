@@ -5,9 +5,6 @@ sidebar_label: Start Here
 slug: /start-here
 ---
 
-import useBaseUrl from '@docusaurus/useBaseUrl';
-import Link from '@docusaurus/Link';
-
 # Welcome to Sundered Systems
 
 Sundered isn't about limits—it's about possibilities.
@@ -44,13 +41,12 @@ Whether you’re running a one-shot tonight or jumping straight into a campaign,
 **Download the Quickstart**  
 - 👉 **[Quickstart (Interactive)](./quickstart-interactive)** — concise rules to run your first session fast.  
 
-<Link
+<a>
   className="sw-button"
   href={useBaseUrl('/img/quickstart.pdf')}
   download
->
   ⬇️ Download the 2-Page Quickstart (PDF)
-</Link>
+</a>
 
 > Prefer to build from scratch? Start with **[Creating a Character](/docs/creating-a-character)**.
 
