@@ -32,7 +32,7 @@ Use this as your turn‑by‑turn cheat sheet for Sundered 5e.
 <details>
   <summary><strong>How to Take a Turn</strong></summary>
 
-- **Free Core Action** — Attack, cast, move, or special.
+- **Core Action** — Attack, cast, move, or special.
 - **Spend Source / Movement** — Take extra actions, enhance attacks, or boost spells.
 - **Roll Check** — d20 + Ability Mod (+ Proficiency if proficient) vs target’s relevant ability score.
 - **Resolve Outcome** — Deal base damage (**Ability Mod + Proficiency**) plus any SD committed.
@@ -43,7 +43,7 @@ Use this as your turn‑by‑turn cheat sheet for Sundered 5e.
   <summary><strong>At a Glance</strong></summary>
 
 - **Base Movement:** 50 ft (adjust by size & Agility).
-- **Actions Beyond Free:** **2 SD ⇒ 1 Core Action**.
+- **Core Action**: Spend 2SD, 20ft Movement, or 1SD 10ft Movement to Attack, Cast, or special
 - **Spell Cost:** Core action + **spell level in SD** (+ up to **Proficiency** for scaling).
 - **Movement Trade:** **20 ft ⇒ 1 extra Core Action** or +effect.
 - **Replenishment (Combat):** Stressed check, Core action; DC 30 - Constitution Score. On success, regain SD up to proficiency.
@@ -53,7 +53,7 @@ Use this as your turn‑by‑turn cheat sheet for Sundered 5e.
 <details>
   <summary><strong>Example Turn</strong></summary>
 
-- **On her turn:** Vera the Ranger uses her **Core Action** to melee attack (**Agility vs target’s Agility**).  
+- **On her turn:** Vera the Ranger uses a **Core Action** to melee attack (**Agility vs target’s Agility**).  
   She spends **2 SD** to make an extra Core Action: attack and commits **+1 SD** to boost its damage.
 
 - **Outside her turn:** An enemy casts a spell targeting her **Constitution**.  
