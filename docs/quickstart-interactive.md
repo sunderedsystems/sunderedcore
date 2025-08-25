@@ -42,7 +42,7 @@ Use this as your turn‑by‑turn cheat sheet for Sundered 5e.
   <summary><strong>At a Glance</strong></summary>
 
 - **Base Movement:** 50 ft (adjust by size & Agility).
-- **Core Action**: Spend 2SD, 20ft Movement, or 1SD 10ft Movement to Attack, Cast, or special
+- **Core Action**: Spend 2SD, 20ft Movement, or 1SD + 10ft Movement to Attack, Cast, or special
 - **Spell Cost:** Core action + **spell level in SD**
 - - **Scaling:** +1 SD **or** 10ft Movement ⇒ + damage/effect 
 - **Replenishment (Combat):** Out of Combat: Automatically regain Source Dice equal to your proficiency every unstressed, unstrained hour
