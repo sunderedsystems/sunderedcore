@@ -23,7 +23,7 @@ sidebar_label: Quickstart
 - **Source Pool**: Fuels everything. Starts at 6d6; increases at higher levels.
 - **Hit Points**: Based on your Source pool (ex: 8d8 = 64 HP).
 - **Movement**: 50ft of movement (base for characters 4-6ft height)
-- **Proficiency**: Sets how many SD you can spend per round (Proficiency Cap).
+- **Proficiency**: Sets how many SD you can spend without Strain (Proficiency Cap).
 
 --
 
@@ -31,11 +31,10 @@ Use this as your turn‑by‑turn cheat sheet for Sundered 5e.
 
 <details>
   <summary><strong>How to Take a Turn</strong></summary>
-
 - **Spend Source / Movement** — Take Core Actions, enhance attacks, or boost spells.
 - **Roll Check** — d20 + Ability Mod (+ Proficiency if proficient) vs target’s relevant ability score.
 - **Resolve Outcome** — Deal base damage (**Ability Mod + Proficiency**) plus any SD committed.
-- **React / Counter** — Spend SD to block, parry, dodge, or counterspell.
+- **React / Counter** — Spend SD to block, or counterspell.
 </details>
 
 <details>
@@ -51,11 +50,12 @@ Use this as your turn‑by‑turn cheat sheet for Sundered 5e.
 <details>
   <summary><strong>Example Turn</strong></summary>
 
-- **On her turn:** Vera the Ranger uses a **Core Action** to melee attack (**Agility vs target’s Agility**).  
-  She spends **2 SD** to make an extra Core Action: attack and commits **+1 SD** to boost its damage.
+- **On her turn:** Vera the Ranger moves 30ft and uses her Core Action to melee attack (Agility vs target’s Agility).
+She spends 2 SD to make an extra Core Action: attack, and commits +1 SD to boost its damage.
 
-- **Outside her turn:** An enemy casts a spell targeting her **Constitution**.  
-  She spends **3 SD** to **counterspell**, rolling her **Knowledge + Proficiency** vs the caster’s roll.
+- **Outside her turn:** An enemy casts a level 1 spell targeting her Constitution.
+She spends 20ft of movement and 1 SD to roll a counterspell check, adding her Knowledge + Proficiency vs the caster’s roll.
+She fails the check but rolls 1 SD to block some of the incoming damage.
 </details>
 
 <details>
