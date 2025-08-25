@@ -32,7 +32,7 @@ Use this as your turn‑by‑turn cheat sheet for Sundered 5e.
 <details>
   <summary><strong>How to Take a Turn</strong></summary>
 
-- **Core Action** — Attack, cast, move, or special.
+- **Core Action(s)** — Attack, cast, move, or special.
 - **Spend Source / Movement** — Take extra actions, enhance attacks, or boost spells.
 - **Roll Check** — d20 + Ability Mod (+ Proficiency if proficient) vs target’s relevant ability score.
 - **Resolve Outcome** — Deal base damage (**Ability Mod + Proficiency**) plus any SD committed.
