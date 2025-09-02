@@ -16,7 +16,7 @@ sidebar_label: Quickstart
 - Assign ability scores: Strength, Agility, Constitution, Knowledge, Wisdom, Influence
 - Pick 2 abilities to be proficient in.
 - Choose an Echelon (unlocks unique powers).
-- Choose a Class for your core feature and two proficiencies.
+- Choose two proficiencies.
 - Pick Disciplines tied to abilities.
 
 **Know Your Pools:**
@@ -50,7 +50,7 @@ Use this as your turn‑by‑turn cheat sheet for Sundered 5e.
 <details>
   <summary><strong>Example Turn</strong></summary>
 
-- **On her turn:** Vera the Ranger moves 30ft and spends her last 20ft of Movement on a Core Action to melee attack (Agility vs target’s Agility).
+- **On her turn:** Vera moves 30ft and spends her last 20ft of Movement on a Core Action to melee attack (Agility vs target’s Agility).
 She spends 2 Source Dice to make annother Core Action: attack, and commits +1 SD to boost its damage.
 
 - **Outside her turn:** An enemy casts a level 1 spell targeting her Constitution.
