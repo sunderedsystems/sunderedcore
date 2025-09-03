@@ -1,7 +1,7 @@
 ---
 id: play-now
-title: New? Start Here
-sidebar_label: Start Here
+title: Play Now
+sidebar_label: Play Now
 slug: /play-now
 ---
 
