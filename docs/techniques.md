@@ -212,7 +212,7 @@ Success = continue uninterrupted
 - When targeting an Area with a spell instead of creatures, make an Untargeted check (30 minus your spellcasting ability)
 - If you succeed on the check, the area becomes hazardous.
 - Creatures in the area during the effects of the spell must succeed an Untargeted check to bypass the spell effects (30 minus the affected ability score)
-> i.e If a fireball targets the area, targets within the area must succeed against DC = 30 minus their Agility score.
+> i.e If a fire spell targets the area, targets within the area must succeed against DC = 30 minus their Agility score.
 
 ---
 
@@ -222,10 +222,10 @@ All spells gained **after** character creation must be learned. You do **not** h
 
 ### Learning Requirements
 
-1. Pass check:  
-> DC = 30 – Spellcasting Score + Spell Level
+1. Spend 1 Core Action + SD equal to the spell level
 
-2. Spend 1 Core Action + SD equal to the spell level
+2. Pass check:  
+> DC = 30 – Spellcasting Score + Spell Level
 
 > Example:  
 > Wisdom 17, learning level 2 spell → DC 15, 1CA, 2SD
