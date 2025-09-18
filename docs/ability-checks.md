@@ -153,7 +153,7 @@ Two creatures directly oppose each other in an action (like gaining control of a
 - Brute force (T/U)
 
 **Agility**  
-- Athletics (U), Piloting (U), Sleight of Hand (T/U), Stealth (T)
+- Athletics (U), Piloting (U), Dexterity (T/U), Stealth (T)
 
 **Constitution**  
 - Concentration (U), Endurance (U)
