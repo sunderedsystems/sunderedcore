@@ -219,7 +219,7 @@ If you're **proficient** in a discipline:
 
 | Ability     | Disciplines                                             |
 |-------------|----------------------------------------------------------|
-| Agility     | Athletics (U), Piloting (U), Sleight of Hand (T/U), Stealth (T) |
+| Agility     | Athletics (U), Piloting (U), Dexterity (T/U), Stealth (T) |
 | Constitution| Concentration (U), Endurance (U)                         |
 | Strength    | Brute force (T/U)                                       |
 | Wisdom      | Insight (T), Investigation (U), Mechanics (T/U), Nature (U), Streetwise (U), Warfare (U) |
