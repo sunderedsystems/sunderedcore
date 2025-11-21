@@ -173,7 +173,6 @@ You may **hold** an Action or Reaction by specifying a **clear trigger** (e.g. "
 -You may hold an action *and* take your turn normally.
 - You **do not** pre-commit Source Dice for held actions.
 - When triggered, resolve the action immediately, committing necessary resources.
-- If resolving it would exceed your SD proficiency cap, it becomes a **Strained** check.
 - If you do not have the resources when the trigger occurs, the Action is not triggered.
 - If the trigger **never occurs**, you **lose nothing**.
 
